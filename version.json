@@ -1,7 +1,8 @@
 {
-    "latestVersion": 0.4,
-    "downloadURL": "https://github.com/1hyzh/INTLS/releases/download/0.4/INTLS.dll",
-    "injectorEXEurl" : "https://github.com/1hyzh/INTLS_Injector/releases/download/0.5/INTLS.Injector.exe",
-    "zlibURL": "https://github.com/1hyzh/INTLS_Injector/releases/download/0.5/zlib1.dll",
-    "libcurlURL": "https://github.com/1hyzh/INTLS_Injector/releases/download/0.5/libcurl.dll"   
+    "latestVersion": 0.5,
+    "downloadURL": "https://github.com/1hyzh/INTLS/releases/download/0.5/INTLS.dll",
+    "injectorEXEurl" : "https://github.com/1hyzh/INTLS_Injector/releases/download/0.7/INTLS.Injector.exe",
+    "zlibURL": "https://github.com/1hyzh/INTLS_Injector/releases/download/0.7/zlib1.dll",
+    "libcurlURL": "https://github.com/1hyzh/INTLS_Injector/releases/download/0.7/libcurl.dll",
+    "changelog": "[+] Added control for the autoclicker randomness."
 }
